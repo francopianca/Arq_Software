@@ -3,9 +3,9 @@
 * ejercicios realizados en clase y/o como tarea
 
 ## Alumno
-* Santiago Agustín **Riveros Salomón**
+* Franco Piancatelli**
 
 ## Contacto
 | Email Institucional |
 |-------|
-|2000049@ucc.edu.ar|
+|2000979@ucc.edu.ar|
